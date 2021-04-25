@@ -6,7 +6,6 @@ const mod = (n, m) => {
 const JS = function (thing) {
     return JSON.stringify(thing).replace(/"/g,'')
 }
-
 const CJS = function (thing) {
     console.log(JS(thing))
 }
