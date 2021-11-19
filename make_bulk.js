@@ -75,4 +75,4 @@ const make_list = function (list_of_sets,prefix="CON",root='./task_sets') {
 
 
 
-make_bulk(0,120)
+make_bulk(0,1)

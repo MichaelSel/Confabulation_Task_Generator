@@ -62,17 +62,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Mongo.test.js" />
       <item itemvalue="Node.js.make_stimuli.js" />
       <item itemvalue="Node.js.gen_task_set.js" />
       <item itemvalue="Node.js.make_bulk.js" />
       <item itemvalue="Node.js.make_practice_stimuli.js" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Mongo.test.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
